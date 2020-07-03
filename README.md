@@ -52,31 +52,51 @@ At this point, the server is successfully started, at the same time, visit `http
 
 ### 1. Language
 
-1. Java
+1. Java  
+3. MySql  
 
 ### 2. FrameWorks
 
 1.Spring Boot  
-2.Spring Data JPA
-3.MySql
+2.Spring Data JPA  
 
 ### 3. Libraries
 
-1.commons-lang
-2.javax.validation
+1.commons-lang  
+2.javax.validation  
 
 ## 2. Assessment 2
 
-1.Vue.js  
-2.ElementUI  
-3.Axios  
-4.Vuex
+### 1. Language
+
+1.HTML  
+2.JavaScript  
+
+### 2. FrameWorks
+
+1.Vue.js
+
+### 3. Libraries
+
+1.ElementUI  
+2.Axios  
+3.Vuex  
+4.Vue-Router
 
 ## 3. Assessment 3
 
-1.Mysql  
-2.Spring Data JPA  
-3.Spring AOP  
+### 1. Language
+
+1. Java  
+3. MySql  
+
+### 2. FrameWorks
+ 
+1.Spring Data JPA  
+
+### 3. Libraries
+
+1.Spring AOP 
 
 # Notice
 
