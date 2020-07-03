@@ -78,7 +78,7 @@ At this point, the server is successfully started, at the same time, visit `http
 ## 2. Optimization
 
 1. I make a simple user authentication with session. It's means you can't visit admin page if you don't login.  
-2. Wehn you visit admin page, you can click your name(In the upper right corner of the page) to log out admin management.  
-3. On the home page, you can click contact to let customer to be able to send email to company.
+2. Wehn you visit admin page, you can click your `name(In the upper right corner of the page)` to log out admin management.  
+3. On the home page, you can click `Contact`  to let customer to be able to send email to company.
 
 # Thank you
