@@ -41,9 +41,11 @@ This is a simple website, mainly developed using Vue.js + SpringBoot technologie
  
 3.The database is configured in the `application.properties` file in the` src \ main \ resources` directory of the project, and the mysql version is 8.0.15. <Strong>Set your own username and password of database!</Strong>
 
-4.Run the project in IntelliJ IDEA(Other IDE). To ensure the project runs successfully, you can right-click `pom.xml` and select maven-> reimport and restart the project
+4.If you don't want to create data by yourself. I put the export sql file in the ` src \ main \ resources` directory of the project.  You can run sql script to import data.
 
-At this point, the server is successfully started, at the same time, visit `http: // localhost: 8085`, you can enter the home page, register your account and start visit.
+5.Run the project in IntelliJ IDEA(Other IDE). To ensure the project runs successfully, you can right-click `pom.xml` and select maven-> reimport and restart the project
+
+6.At this point, the server is successfully started, at the same time, visit `http: // localhost: 8085`, you can enter the home page, register your account and start visit.
 
 
 # Technology Stack
@@ -102,10 +104,9 @@ At this point, the server is successfully started, at the same time, visit `http
 # Notice
 
 ## 1. About Run Project
-
-1. If you don't want to create data by yourself. I put the export sql file in the ` src \ main \ resources` directory of the project.  You can run sql script to import data.  
-2. In Log page, you can select any month to search data. In User page, you can update and delete user.  
-3. Log and user page have pagination function.
+  
+1. In Log page, you can select any month to search data. In User page, you can update and delete user.  
+2. Log and user page have pagination function.
 
 ## 2. Optimization
 
