@@ -81,7 +81,8 @@ At this point, the server is successfully started, at the same time, visit `http
 1.ElementUI  
 2.Axios  
 3.Vuex  
-4.Vue-Router
+4.Vue-Router  
+5.Vue-Element-Admin
 
 ## 3. Assessment 3
 
