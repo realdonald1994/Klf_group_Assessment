@@ -71,7 +71,9 @@ At this point, the server is successfully started, at the same time, visit `http
 
 ## 1. About Run Project
 
-1. If you don't want to create data by yourself. I put the export sql file in the ` src \ main \ resources` directory of the project.  You can run sql script to import data.
+1. If you don't want to create data by yourself. I put the export sql file in the ` src \ main \ resources` directory of the project.  You can run sql script to import data.  
+2. In Log page, you can select any month to search data. In User page, you can update and delete user.  
+3. Log and user page have pagination function.
 
 ## 2. Optimization
 
