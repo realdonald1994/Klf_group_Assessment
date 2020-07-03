@@ -24,7 +24,7 @@ This is a simple website, mainly developed using Vue.js + SpringBoot technologie
 
 ## 3. Log
 
-![Log](https://raw.githubusercontent.com/realdonald1994/blog-resources/master/img/Klf_group_Assessment2.png)
+![Log](https://raw.githubusercontent.com/realdonald1994/blog-resources/master/img/Klf_group_Assessment5.png)
 
 ## 4. User Management
 
