@@ -39,7 +39,7 @@ This is a simple website, mainly developed using Vue.js + SpringBoot technologie
 
 2.Create a database `klf` in mysql, run the project, and the tables will be created automatically.
  
-3.The database is configured in the `application.properties` file in the` src \ main \ resources` directory of the project, and the mysql version is 8.0.15. <Strong>Set your own username and password of database!</Strong>
+3.The database is configured in the `application-dev.properties` file in the` src \ main \ resources` directory of the project, and the mysql version is 8.0.15. <Strong>Set your own username and password of database!</Strong>
 
 4.If you don't want to create data by yourself. I put the export sql file in the ` src \ main \ resources` directory of the project.  You can run sql script to import data.
 
