@@ -4,10 +4,8 @@
 <br>
 <br>
 <br>
-<br>
 This is a simple website, mainly developed using Vue.js + SpringBoot technologies.
 
-<br>
 <br>
 <br>
 <br>
@@ -43,7 +41,7 @@ This is a simple website, mainly developed using Vue.js + SpringBoot technologie
  
 3.The database is configured in the `application.properties` file in the` src \ main \ resources` directory of the project, and the mysql version is 8.0.15. <Strong>Set your own username and password of database!</Strong>
 
-4.Run the project in IntelliJ IDEA. To ensure the project runs successfully, you can right-click `pom.xml` and select maven-> reimport and restart the project
+4.Run the project in IntelliJ IDEA(Other IDE). To ensure the project runs successfully, you can right-click `pom.xml` and select maven-> reimport and restart the project
 
 At this point, the server is successfully started, at the same time, visit `http: // localhost: 8085`, you can enter the home page, register your account and start visit.
 
