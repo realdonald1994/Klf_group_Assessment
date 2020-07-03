@@ -50,9 +50,20 @@ At this point, the server is successfully started, at the same time, visit `http
 
 ## 1. Assessment 1
 
+### 1. Language
+
+1. Java
+
+### 2. FrameWorks
+
 1.Spring Boot  
 2.Spring Data JPA
 3.MySql
+
+### 3. Libraries
+
+1.commons-lang
+2.javax.validation
 
 ## 2. Assessment 2
 
