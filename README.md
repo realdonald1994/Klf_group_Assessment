@@ -111,7 +111,7 @@ This is a simple website, mainly developed using Vue.js + SpringBoot technologie
 ## 2. Optimization
 
 1. I make a simple user authentication with session. <Strong>It's means you can't visit admin page if you don't login.</strong>  
-2. Wehn you visit admin page, you can click your `name(In the upper right corner of the page)` to log out admin management.  
+2. When you visit admin page, you can click your `name(In the upper right corner of the page)` to log out admin management.  
 3. On the home page, you can click `Contact`  to let customer to be able to send email to company.
 
 # Thank you
